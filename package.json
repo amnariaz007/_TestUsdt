@@ -1,0 +1,25 @@
+{
+  "name": "ethereum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.16.4",
+    "web3": "^1.7.3",
+    "web3-eth-accounts": "^1.0.0-beta.8",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0",
+     "ethereum-input-data-decoder": "^0.4.1",  
+      "xmlhttprequest": "^1.8.0"
+  }
+}
